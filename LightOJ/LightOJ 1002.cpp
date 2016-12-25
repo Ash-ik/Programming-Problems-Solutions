@@ -84,7 +84,6 @@ void dijkstra(int start)
 
 int main()
 {
-    write;
     int i,j,k,t,m,p,q,w,start,cases=0;
     inp(t);
     while(t--)
