@@ -8,8 +8,6 @@ int t,num,i;
 char x[10000];
 int main()
 {
-    freopen("1225.in", "r", stdin);
-    freopen("1225.out", "w", stdout);
     scanf("%d",&t);
     while(t--)
     {
