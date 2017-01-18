@@ -1,0 +1,19 @@
+1) UVA 11479-Is this the easiest problem
+2)UVA 10783-Odd number
+3)UVA 10071-Back to highschool physics
+4)UVA 10055-Hashmat the brave warrior
+5) UVA 11172-Relational Operator
+6)UVA 591-Box of bricks
+7)UVA 12149-Feynman
+8)UVA 12372-Packing for holiday
+9)UVA 11455-Behold my quadrangle
+10)UVA 11332-Summing digits
+11)UVA 11727-Cost cutting solution
+12)UVA 10346-Peter's smoke
+13)UVA 11936-The Lazy Lumberjacks
+14)UVA 11854-Egypt
+15)UVA 11636-Hello world
+16) UVA 10370-Above avarage
+
+
+136,10018,11497
